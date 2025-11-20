@@ -118,7 +118,7 @@ simulations:
       volumes:
       - name: model
         path: /home/autoware/autoware_data/lidar_centerpoint
-        preserve_original__files: true
+        preserve_original_files: true
 
 release:
   components:
